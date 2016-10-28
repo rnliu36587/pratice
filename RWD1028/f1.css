@@ -1,0 +1,14 @@
+
+.full-width{
+    width: 100%;
+    }
+
+.clearfix::after{
+    content:"";
+    display:block;
+    clear:both;
+}
+a{
+    color:#fff;
+    text-decoration: none;
+}
