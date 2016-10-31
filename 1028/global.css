@@ -1,0 +1,44 @@
+.full-width {
+    width: 100%;
+}
+.fixed-width {
+    width: 1110px;
+    margin: auto;
+
+}
+nav {
+    height: 78px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.5);
+/*    border-bottom: 1px solid rgba(0,0,0,.5);*/
+}
+nav .logo {
+    float: left;
+    width: 150px;
+    height: 78px;
+    background-color: aqua;
+}
+nav .menu {
+    float: right;
+}
+nav .menu ul {
+    margin: 0;
+    padding: 0;
+}
+nav .menu ul li {
+    float: left;
+    list-style-type: none;
+}
+nav .menu ul li a {
+    display: block;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #0a0a0a;
+    text-decoration: none;
+    line-height: 78px;
+}
+header{
+    height:600px;
+    
+    
+}
+
